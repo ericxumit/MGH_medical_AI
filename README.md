@@ -6,6 +6,6 @@
 * Tools used: PostgreSQL 10, Python 3.6.6, Jupyter Notebook
 
 # Files
-1_Mimic3_preview.ipynb - introduce Mimic III data sets, table correlations, and preload local data (*.csv) for preview
-2_Mimic3_Postgres_setup.ipynb - introduce using PostgreSQL to build local database, and Python (in Jupyter Notebook IDE) to query data
-3_Diabetic_Patients.ipynb - with intereset to analyze diabetic patients, introduce how to make specific queries and analytics
+* 1_Mimic3_preview.ipynb - introduce Mimic III data sets, table correlations, and preload local data (*.csv) for preview
+* 2_Mimic3_Postgres_setup.ipynb - introduce using PostgreSQL to build local database, and Python (in Jupyter Notebook IDE) to query data
+* 3_Diabetic_Patients.ipynb - with intereset to analyze diabetic patients, introduce how to make specific queries and analytics
