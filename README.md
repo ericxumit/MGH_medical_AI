@@ -14,7 +14,9 @@ MGH_medical_AI
 
 
 
-## Files
-* 1_Mimic3_preview.ipynb - introduce Mimic III data sets, table correlations, and preload local data (*.csv) for preview
-* 2_Mimic3_Postgres_setup.ipynb - introduce using PostgreSQL to build local database, and Python (in Jupyter Notebook IDE) to query data
-* 3_Diabetic_Patients.ipynb - with intereset to analyze diabetic patients, introduce how to make specific queries and analytics
+## Files (note all individual stuties have been clear on purpose with cited reference materials)
+* 1_Mimic3_preview.ipynb - Introduce Mimic III data sets, table correlations, and preload local data (*.csv) for preview
+* 2_Mimic3_Postgres_setup.ipynb - Introduce using PostgreSQL to build local database, and Python (in Jupyter Notebook IDE) to query data
+* 3_Diabetic_Patients.ipynb - With intereset to analyze diabetic patients, introduce how to make specific queries and analytics
+* 4_ML_code_practise - Understand how the ML data reader and basic model works
+* 5_ML_new_model - Develop new models for research purpose
